@@ -6,11 +6,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="Shinji Hideaki">
 <title>CHECKER CC</title>
-<link href="putangina/style.css" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Bungee" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Berkshire+Swash" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
-<script src="putangina/jquery.min.js"></script>
 </head>
 
 <body>
